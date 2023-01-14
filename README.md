@@ -10,5 +10,3 @@
 - 🤔 I'm looking for help with ... as much as possible.
 
 👍 Thank-you for your visit.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithtmccartney)](https://github.com/anuraghazra/github-readme-stats)
